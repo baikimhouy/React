@@ -8,7 +8,7 @@ function App() {
     <div className="flex flex-col items-center justify-center min-h-screen space-y-4 bg-gray-100">
       <h1 className="text-2xl font-bold text-black">React Counter</h1>
 
-      <p className="bg-violet-500 p-4 rounded-lg text-xl">{count}</p>
+      <p className="bg-sky-500 p-4 rounded-lg text-xl">{count}</p>
 
       <div className="space-x-4">
         <button
